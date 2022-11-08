@@ -23,8 +23,8 @@ body {
 }
 
 canvas {
-    border: 2px solid white;
+    border: 2px solid #ffffff;
     border-radius: 10px;
-    margin-top: 130px;
-    box-shadow: 5px 5px 5px 8px grey, 5px 5px 5px 8px white;
+    margin-top: 70px;
+    box-shadow: 5px 5px 5px 8px #808080, 5px 5px 5px 8px #ffffff;
 }
